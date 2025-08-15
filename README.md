@@ -55,6 +55,6 @@ It allows you to:
 This repository is for educational purposes only and follows the guidelines of the Computer Networks course.
 All rights reserved by the author.
 
-Author: Zian Rajeshkumar Surani
-📧 Email: zian.surani@example.com
-🌐 LinkedIn: https://www.linkedin.com/in/zian-rajeshkumar-surani-125215195/
+Author: SYED SABITH ANSARI
+📧 Email: sabithansari@example.com
+🌐 LinkedIn: https://www.linkedin.com/in/sabith-ansari-baa12328b/
