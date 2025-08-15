@@ -48,7 +48,7 @@ It allows you to:
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Zian-Surani/Computer-Networks.git
+   (https://github.com/ansari6926/Computer-Networks)
 
 ## 📜 License
 
